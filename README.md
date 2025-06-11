@@ -1,8 +1,3 @@
-<style>
-    .alltext{
-        background-color: rgb(93, 166, 166);
-    }
-</style>
 <!DOCTYPE html>
 <html class="alltext">
     <head>
